@@ -23,7 +23,7 @@
 - 🎓 B.E, Computer Engineering, Thadomal Shahani Engineering College, Mumbai, 2024
        - Grade 9.0/10
   
-##Certification
+## Certification
 
 - 💼 JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage - https://drive.google.com/file/d/1Kky22iusQj8tR125twrd4wzS_iUUhouq/view?usp=drive_link
 - 💼 Goldman Sachs Software Engineering Virtual Experience Participant with Forage - https://drive.google.com/file/d/1z-z5A47cQfGqzKWNep2ZxPZwDgUr-hsu/view?usp=drive_link
