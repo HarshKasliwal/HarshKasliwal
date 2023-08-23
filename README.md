@@ -15,7 +15,8 @@
 
 - 🚀 Used Car Price Predictor(https://github.com/HarshKasliwal/used_car_price_predictor)
 - 📊 Hotel Management Project using Python, Django, MySQL(https://github.com/HarshKasliwal/hotel_management---Python-Project)
-
+- All of my other projects are available at https://github.com/HarshKasliwal?tab=repositories
+- Know about my experiences https://drive.google.com/file/d/1zOn5DFxTE_FBbzb45Ewmi3JTpVHkzdBH/view?usp=drive_link
 
 ## Education
 
