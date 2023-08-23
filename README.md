@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Harsh Kasliwal 👋
 
-<!--
-**HarshKasliwal/HarshKasliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer | Front End Developer | Goldman Sachs & JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage | Open for Collaboration ⚡️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- 💻 C/C++, Java, Python 
+- 💼 HTML, CSS, Javascript, React.js
+- 📈 SQL
+- 🔍 Various Application like MS Office, MySQL, AWS, WordPress, Bootstrap etc.
+
+## Projects
+
+- 🚀 Used Car Price Predictor(https://github.com/HarshKasliwal/used_car_price_predictor)
+- 📊 Hotel Management Project using Python, Django, MySQL(https://github.com/HarshKasliwal/hotel_management---Python-Project)
+
+
+## Education
+
+- 🎓 B.E, Computer Engineering, Thadomal Shahani Engineering College, Mumbai, 2024
+
+## Contact Me
+
+- 📧 Email: harshkasliwal53@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kasliwal-b15ab8219/
+- 🐦 Twitter: https://twitter.com/harshkasliwal53
+
+Feel free to get in touch with me if you have any questions or just want to chat. I'm always open to new opportunities and collaborations!
