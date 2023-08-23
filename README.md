@@ -21,7 +21,7 @@
 ## Education
 
 - 🎓 B.E, Computer Engineering, Thadomal Shahani Engineering College, Mumbai, 2024
-- Grade 9.0/10
+       - Grade 9.0/10
 
 ## Contact Me
 
