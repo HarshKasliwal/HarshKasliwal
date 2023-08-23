@@ -15,18 +15,19 @@
 
 - 🚀 Used Car Price Predictor https://github.com/HarshKasliwal/used_car_price_predictor
 - 📊 Hotel Management Project using Python, Django, MySQL https://github.com/HarshKasliwal/hotel_management---Python-Project
-- All of my other projects are available at https://github.com/HarshKasliwal?tab=repositories
-- Know about my experiences https://drive.google.com/file/d/1zOn5DFxTE_FBbzb45Ewmi3JTpVHkzdBH/view?usp=drive_link
+- 🧐 All of my other projects are available at https://github.com/HarshKasliwal?tab=repositories
+- 📝 Know about my experiences https://drive.google.com/file/d/1zOn5DFxTE_FBbzb45Ewmi3JTpVHkzdBH/view?usp=drive_link
 
 ## Education
 
-- 🎓 B.E, Computer Engineering, Thadomal Shahani Engineering College, Mumbai, 2024
-       - Grade 9.0/10
+- 🎓 B.E, Computer Engineering, Thadomal Shahani Engineering College, Mumbai, 2024 - Grade 9.0/10
+- 📚 My Grades: 10th - 89.6% || 12th - 82% || MHTCET - 96.7 || JEE Mains - 92 
+
   
 ## Certification
 
-- 💼 JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage - https://drive.google.com/file/d/1Kky22iusQj8tR125twrd4wzS_iUUhouq/view?usp=drive_link
-- 💼 Goldman Sachs Software Engineering Virtual Experience Participant with Forage - https://drive.google.com/file/d/1z-z5A47cQfGqzKWNep2ZxPZwDgUr-hsu/view?usp=drive_link
+- 🏅 JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage - https://drive.google.com/file/d/1Kky22iusQj8tR125twrd4wzS_iUUhouq/view?usp=drive_link
+- 🏅 Goldman Sachs Software Engineering Virtual Experience Participant with Forage - https://drive.google.com/file/d/1z-z5A47cQfGqzKWNep2ZxPZwDgUr-hsu/view?usp=drive_link
 
 ## Contact Me
 
