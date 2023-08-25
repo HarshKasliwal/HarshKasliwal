@@ -34,5 +34,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/harsh-kasliwal-b15ab8219/
 - 🐦 Twitter: https://twitter.com/harshkasliwal53
 
-  Feel free to get in touch with me if you have any questions or just want to chat. I'm always open to new opportunities and collaborations!
+  Feel free to get in touch with me if you have any questions or just want to chat. I'm always open to new opportunities and collaborations! <br />
   📝 Resume Link: https://drive.google.com/file/d/1lY9tT77ThaioYQbwlNH81pYvxOuWubR_/view?usp=sharing
