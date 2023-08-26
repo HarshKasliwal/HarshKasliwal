@@ -2,8 +2,7 @@
 
 ## ABOUT ME
 
-💻 Aspiring Software Engineer | Front End Developer | Goldman Sachs & JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage | Open for Collaboration ⚡️ |
-Here's my resume [Harsh Kasliwal's Resume.pdf](https://github.com/HarshKasliwal/HarshKasliwal/files/12445171/Harsh.Kasliwal.s.Resume.pdf)
+🚀 Aspiring Software Engineer and Front End Developer, actively equipping myself with a diverse skill set encompassing Git, NOSQL, Big Data (Hadoop), Kubernetes, and APIs. Experienced in immersive virtual programs with Goldman Sachs & JPMorgan Chase & Co. via Forage, I'm eagerly embracing every opportunity to learn, collaborate, and contribute to the dynamic world of software engineering ⚡️🌐 
 
 ## EDUCATION
 
