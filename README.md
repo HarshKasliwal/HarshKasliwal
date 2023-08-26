@@ -13,6 +13,7 @@
 
 ## Projects
 
+- Front-End Web Developer Internship @Chhabria Housing LLP, Mumbai https://drive.google.com/file/d/1yv7Cwzt03zl2hX8rA_eqJLhFABoycnij/view?usp=sharing
 - 🚀 Used Car Price Predictor https://github.com/HarshKasliwal/used_car_price_predictor
 - 📊 Hotel Management Project using Python, Django, MySQL https://github.com/HarshKasliwal/hotel_management---Python-Project
 - 🧐 All of my other projects are available at https://github.com/HarshKasliwal?tab=repositories
