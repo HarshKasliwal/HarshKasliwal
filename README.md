@@ -35,6 +35,5 @@
 - 𝕏  Twitter: https://twitter.com/harshkasliwal53
 
 Feel free to get in touch with me if you have any questions or just want to chat. I'm always open to new opportunities and collaborations! <br />
-I’m currently learning: Git, NOSQL, Bigdata(Hadoop), Kubernetes and APIs
 
 
