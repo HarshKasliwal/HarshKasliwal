@@ -4,12 +4,12 @@
 
 💻 Aspiring Software Engineer | Front End Developer | Goldman Sachs & JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage | Open for Collaboration ⚡️
 
-## Skills
+## Technical Skills
 
-- 💻 C/C++, Java, Python 
-- 💼 HTML, CSS, Javascript, React.js
-- 📈 SQL
-- 🔍 Various Application like MS Office, MySQL, AWS, WordPress, Bootstrap etc.
+- 💻 Languages: C/C++, Java, Python, JavaScript, SQL
+- 💼 Web framework: HTML, CSS, React.js, Bootstrap
+- 📈 Other Tech: MySQL, MS SQL Server, Git, Docker, AWS, MS Office, Wordpress
+- 🔍 College Workcourse: Unix/Linux Programming, Artificial Intelligence, Machine Learning, DSA
 
 ## Projects
 
