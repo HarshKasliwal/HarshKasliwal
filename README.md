@@ -8,7 +8,7 @@ Here's my resume [Harsh Kasliwal's Resume.pdf](https://github.com/HarshKasliwal/
 ## EDUCATION
 
 - 🎓 B.E, Computer Engineering, Thadomal Shahani Engineering College, Mumbai, 2024 - Grade 9.0/10
-- 📚 My Grades: 10th - 89.6% || 12th - 82% || MHTCET - 96.7 || JEE Mains - 92
+- 📚 Past Grades: 10th - 89.6% || 12th - 82% || MHTCET - 96.7 || JEE Mains - 92
 
 ## KEY PROJECTS & PAST EXPERIENCE
 
