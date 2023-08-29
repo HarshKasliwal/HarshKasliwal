@@ -31,8 +31,6 @@
 ## LET'S CONNECT
 
 - 📧 Email: harshkasliwal53@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kasliwal-b15ab8219/
-- 𝕏  Twitter: https://twitter.com/harshkasliwal53
 
 Feel free to get in touch with me if you have any questions or just want to chat. I'm always open to new opportunities and collaborations! <br />
 
