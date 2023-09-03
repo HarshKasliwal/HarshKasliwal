@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-🚀 Aspiring Software Engineer and Front End Developer, actively equipping myself with a diverse skill set encompassing Git, NOSQL, Big Data (Hadoop), Kubernetes, and APIs. Experienced in immersive virtual programs with Goldman Sachs & JPMorgan Chase & Co. via Forage, I'm eagerly embracing every opportunity to learn, collaborate, and contribute to the dynamic world of software engineering ⚡️🌐 
+An emerging software developer with a diverse skill set encompassing SQL, C++, Python, JavaScript, Java, and Front End development. With a CGPI of 9/10, I'm dedicated to excellence. In my early career, a diverse project portfolio stands out. Front End Web Dev internship highlighted HTML, CSS, JS proficiency, adaptability, teamwork and communication skills. I'm determined to secure a Software Engineer role, leveraging C++, Python, and Java for innovative solutions.
 
 
 ## KEY PROJECTS & PAST EXPERIENCE
