@@ -7,7 +7,7 @@ An emerging software developer with a diverse skill set encompassing SQL, C++, P
 
 ## KEY PROJECTS & PAST EXPERIENCE
 
-- 👨‍💻 Front-End Web Developer Internship @Chhabria Housing LLP, Mumbai https://github.com/HarshKasliwal/Front-End-Web-Developer---Internship
+- 👨‍💻 Software Engineer Internship @Chhabria Housing LLP, Mumbai https://github.com/HarshKasliwal/Front-End-Web-Developer---Internship
 - 🚗 CariPrice: Preowned Auto Valuator (Used Car Price Predictor) https://github.com/HarshKasliwal/CariPrice-Preowned-Auto-Valuator-Used-Car-Price-Predictor-
 - 📊 HarmonyStay: Streamlined Hotel Management Solution https://github.com/HarshKasliwal/HarmonyStay-Streamlined-Hotel-Management-Solution
 - 🧐 All of my other projects are available at https://github.com/HarshKasliwal?tab=repositories
